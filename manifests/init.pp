@@ -6,6 +6,6 @@
 class wireshark {
   package { 'Wireshark':
     provider => 'pkgdmg',
-    source   => 'http://wiresharkdownloads.riverbed.com/wireshark/osx/Wireshark%201.10.5%20Intel%2064.dmg',
+    source   => 'http://wiresharkdownloads.riverbed.com/wireshark/osx/Wireshark%201.10.6%20Intel%2064.dmg',
   }
 }
